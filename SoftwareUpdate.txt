@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Fix Multi-GPU resume bug (#7328)
