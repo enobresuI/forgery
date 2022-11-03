@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Update HTTP to HTTPS (#7548)
