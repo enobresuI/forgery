@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
