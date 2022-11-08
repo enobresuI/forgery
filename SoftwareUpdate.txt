@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
