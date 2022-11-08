@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
