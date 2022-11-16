@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+YAML reformat (#7669)
