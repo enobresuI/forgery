@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Clarify triton server boolean value (#8532)
