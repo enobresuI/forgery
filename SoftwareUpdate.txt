@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Fix PIL show() and save() (#8202)
