@@ -1,1 +1,1 @@
-Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
