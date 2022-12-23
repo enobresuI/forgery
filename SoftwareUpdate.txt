@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
