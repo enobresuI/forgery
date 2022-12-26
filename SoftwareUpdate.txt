@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Model typehints Docker fix (#8306)
