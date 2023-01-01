@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update fraction arg to employ a random selection (#8234)
