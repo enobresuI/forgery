@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Fixed RTDETR GFLOPs bug (#7309)
