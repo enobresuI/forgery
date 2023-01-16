@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add visuals in guides/distance-calculation.md (#7876)
