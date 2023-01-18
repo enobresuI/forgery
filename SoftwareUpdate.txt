@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Fix IS_PYTHON_3_12 bug (#9258)
