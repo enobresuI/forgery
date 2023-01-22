@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Add dota8.yaml and O tests (#7394)
