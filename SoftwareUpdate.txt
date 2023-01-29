@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
