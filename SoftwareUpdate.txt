@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Improve Coral Edge TPU guide (#8160)
