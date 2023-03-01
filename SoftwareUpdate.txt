@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add estimate_speed(region_color) parameter (#8285)
