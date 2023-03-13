@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Fix device counting method to account for double-digit device IDs (#8502)
