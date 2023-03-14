@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
