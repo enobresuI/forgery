@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Hold failed upload metrics and upload with next upload metrics (#8513)
