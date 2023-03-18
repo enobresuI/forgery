@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
