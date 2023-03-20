@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add PaddlePaddle Docs Integrations Page (#8858)
