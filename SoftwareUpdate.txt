@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Rename model_id to model.id (#8447)
