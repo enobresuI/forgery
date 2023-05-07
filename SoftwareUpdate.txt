@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add C++ Classify inference example (#6868)
