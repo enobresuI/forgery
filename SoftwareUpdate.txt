@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
