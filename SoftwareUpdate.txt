@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
