@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Elaborate Train and Predict mode docs arguments (#8137)
