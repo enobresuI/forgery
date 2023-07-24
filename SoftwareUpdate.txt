@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Fix RTDETR generate anchor grid out of boundary (#7247)
