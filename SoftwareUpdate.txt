@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
