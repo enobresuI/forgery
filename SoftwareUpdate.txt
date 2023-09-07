@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
