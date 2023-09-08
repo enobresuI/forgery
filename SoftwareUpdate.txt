@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add PR Summary step to Ultralytics Actions (#7675)
