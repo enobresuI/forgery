@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
