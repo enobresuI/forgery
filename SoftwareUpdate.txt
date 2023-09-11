@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add PR Summary step to Ultralytics Actions (#7675)
