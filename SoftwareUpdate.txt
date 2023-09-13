@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
