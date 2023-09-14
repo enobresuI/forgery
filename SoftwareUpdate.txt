@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+New test for labels and crops (#8861)
