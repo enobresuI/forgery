@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
