@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+Optimize TFJS export on ARM64 (#8946)
