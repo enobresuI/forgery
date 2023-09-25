@@ -1,1 +1,1 @@
-Bump slackapi/slack-github-action from 1.24.0 to 1.25.0 in /.github/workflows (#7871)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
