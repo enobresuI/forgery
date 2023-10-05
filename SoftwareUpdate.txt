@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
