@@ -1,1 +1,1 @@
-Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
