@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add new YOLOv8 OBB model metrics (#7379)
