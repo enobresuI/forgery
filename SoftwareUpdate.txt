@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Expand Model method type hinting (#8279)
