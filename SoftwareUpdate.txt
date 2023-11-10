@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
