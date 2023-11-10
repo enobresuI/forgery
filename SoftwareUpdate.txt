@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
