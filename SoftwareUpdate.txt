@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
