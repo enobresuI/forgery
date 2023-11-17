@@ -1,1 +1,1 @@
-Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
