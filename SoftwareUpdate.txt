@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
