@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Retry once for Docker CI failures (#8164)
