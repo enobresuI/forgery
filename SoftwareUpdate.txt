@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Fix docker.yaml double-quote version bug (#7452)
