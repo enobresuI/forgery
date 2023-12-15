@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
