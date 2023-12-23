@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
