@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add plot_images conf_thresh parameter (#8446)
