@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add integrations/gradio Docs page (#7935)
