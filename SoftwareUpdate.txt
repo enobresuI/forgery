@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Batch inference fixes (#8854)
