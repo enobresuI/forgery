@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+YOLOv8 INT8 TFLite Inference Example (#7317)
