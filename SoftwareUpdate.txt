@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add type hinting to explorer.py (#7388)
