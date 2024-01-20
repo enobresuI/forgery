@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
