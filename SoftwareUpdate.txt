@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
