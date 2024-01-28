@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
