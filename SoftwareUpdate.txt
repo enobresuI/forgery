@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Add bgr hyperparameter (#9139)
