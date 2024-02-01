@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Expand Model method type hinting (#8279)
