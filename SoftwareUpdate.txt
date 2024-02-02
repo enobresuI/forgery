@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
