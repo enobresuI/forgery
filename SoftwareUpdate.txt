@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add HUB-SDK Docs reference section (#7781)
