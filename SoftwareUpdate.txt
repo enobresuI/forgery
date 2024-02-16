@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
