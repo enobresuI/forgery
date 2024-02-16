@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add PaddlePaddle Docs Integrations Page (#8858)
