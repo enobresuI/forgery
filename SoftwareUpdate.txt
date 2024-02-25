@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
