@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Pass callbacks to validator (#7320)
