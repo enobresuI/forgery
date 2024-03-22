@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
