@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
