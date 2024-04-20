@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
