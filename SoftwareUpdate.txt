@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Tracker: clean up GMC (#8003)
