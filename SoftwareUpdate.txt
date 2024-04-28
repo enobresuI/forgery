@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add missing Explorer docs reference pages (#7455)
