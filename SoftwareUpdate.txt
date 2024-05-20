@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
